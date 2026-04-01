@@ -49,5 +49,4 @@ Solve at least 1 problem every day and push it to GitHub.
 
 ---
 
-⭐ *Consistency > Perfection*"# Data-Structures-and-Algorithms" 
-"# Data-Structures-and-Algorithms" 
+⭐ *Consistency > Perfection*
